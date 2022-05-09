@@ -15,8 +15,12 @@ CRUD operations using Swagger Petstore & Postman:
 
 # To run this collection with Newman:
  1. Ensure Newman has been installed (if not run the following command in your terminal: npm install -g newman) 
- 2. In Command prompt run the following command: newman run https://www.getpostman.com/collections/8b9f7c034b4566b6d6ec
+ 2. In Command prompt run the following command: 
+    newman run https://www.getpostman.com/collections/8b9f7c034b4566b6d6ec
 
 # To import collection & environment:
-1.
-2.
+1. This project -> PetStore.postman_collection.json -> Copy raw contents 
+2. Postman -> Import -> Raw Text
+3. This project -> petStore.postman_environment.json -> Copy raw contents 
+4. Postman -> Import -> Raw Text
+5. Postman -> Select PetStore collection you've just imported -> Run collection to see the detailed results
