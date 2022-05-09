@@ -14,7 +14,7 @@ CRUD operations using Swagger Petstore & Postman:
 - GET – finds all pets by status "available"
 
 # To run this collection with Newman:
- 1. Ensure Newman has been installed (if not run the following command in your terminal: npm install -g newman) 
+ 1. Ensure Newman has been installed (if not run the following command in your terminal (node.js must be installed on your machine (https://nodejs.org/en/download/)): npm install -g newman) 
  2. In Command prompt run the following command: 
     newman run https://www.getpostman.com/collections/8b9f7c034b4566b6d6ec
 
