@@ -22,7 +22,7 @@ CRUD operations using Swagger Petstore & Postman:
  
  2. In Command prompt run the following command: 
  ```bash
-    newman run https://www.getpostman.com/collections/8b9f7c034b4566b6d6ec
+    newman run https://www.getpostman.com/collections/8e43d62056c6ecfc38f8
 ```
 
 # To import collection & environment:
